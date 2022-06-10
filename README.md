@@ -4,6 +4,10 @@ This repo is the official release of HQ-VoxCeleb dataset, which is proposed in *
 
 The main paper of this work is currently under the review process of ACMMM 2022. Please refer to our [supplementary material](https://sf2f.github.io/#data-quality) for more information about HQ-VoxCeleb dataset.
 
+[![license](https://img.shields.io/github/license/SF2F/HQ-VoxCeleb.svg)](https://github.com/SF2F/HQ-VoxCeleb/blob/main/LICENSE)
+[![open issues](https://isitmaintained.com/badge/open/SF2F/HQ-VoxCeleb.svg)](https://github.com/SF2F/HQ-VoxCeleb/issues)
+[![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/SF2F/HQ-VoxCeleb/blob/main/README.md)
+
 ## Download
 
 HQ-VoxCeleb is now open for download at: [Google Drive Link](https://drive.google.com/file/d/1QSzu45YP_FHIwJAAi9YGzW3nX64RR69S/view?usp=sharing).
