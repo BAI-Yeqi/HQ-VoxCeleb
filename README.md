@@ -2,7 +2,7 @@
 
 This repo is the official release of HQ-VoxCeleb dataset, which is proposed in *Speech Fusion to Face: Bridging the Gap Between Human's Vocal Characteristics and Facial Imaging*.
 
-The main paper of this work will be published on ACMMM 2022. Please refer to our [supplementary material](https://sf2f.github.io/#data-quality) for more information about HQ-VoxCeleb dataset.
+The main paper of this work is published on ACMMM 2022 as a full paper [[arxiv](https://arxiv.org/abs/2006.05888)].. Please refer to our [supplementary material](https://sf2f.github.io/#data-quality) for more information about HQ-VoxCeleb dataset.
 
 
 [![license](https://img.shields.io/github/license/SF2F/SF2F_PyTorch.svg)](https://github.com/SF2F/SF2F_PyTorch/blob/main/LICENSE)
